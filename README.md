@@ -3,5 +3,5 @@
 </div>
 <BR>
 <div id="header" align="center">
-<img src="https://img.shields.io/badge/LinkedIn-blue">
-<img src="https://img.shields.io/badge/Instagram-red">
+<a href="https://www.linkedin.com/in/meg-grooms/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
+<a href="https://instagram.com/gameschooling_meg"><img src="https://img.shields.io/badge/Instagram-red"></a>
