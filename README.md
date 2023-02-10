@@ -11,3 +11,8 @@
 <a href="https://instagram.com/gameschooling_meg"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </div>
 <br>
+  
+  
+---
+
+### :woman_technologist: About Me :
