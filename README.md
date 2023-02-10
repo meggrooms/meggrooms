@@ -35,6 +35,7 @@ I am a new Data Analytics & Visualization Bootcamp graduate from California.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" /> &nbsp;
   
   
