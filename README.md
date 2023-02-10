@@ -16,15 +16,17 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a new Data Analytic & Visualization Bootcamp graduate in California.
+I am a new Data Analytics & Visualization Bootcamp graduate from California.
 <BR>
 
 - :game_die: I own my own business teaching people how to learn with board games
 
-- :snake: Exploring the wonderful world of Python and Full Stack Web Development
+- :snake: Currently exploring the wonderful world of Python and Full Stack Web Development
 
-- :surfing_woman: In my free time, I like to adventure in San Diego with my dog & kids.
+- :surfing_woman: In my free time I like to adventure in San Diego with my dog & kids.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Meg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meg-grooms/)
+- :mailbox_with_mail: How to reach me: <a href = "mailto:meggrooms@gmail.com?subject = Feedback&body = GitHub"><img src="https://img.shields.io/badge/Email_Meg-red?logo=instagram&logoColor=white&style=for-the-badge">
+</a>
+
 
 
