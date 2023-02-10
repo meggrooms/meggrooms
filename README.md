@@ -27,6 +27,10 @@ I am a new Data Analytics & Visualization Bootcamp graduate from California.
 
 - :mailbox_with_mail: How to reach me: <a href = "mailto:meggrooms@gmail.com?subject = Feedback&body = GitHub"><img src="https://img.shields.io/badge/Email_Meg-red?logo=instagram&logoColor=white&style=for-the-badge">
 </a>
+<BR>
+<BR>
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 
