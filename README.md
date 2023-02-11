@@ -31,6 +31,7 @@ I am a new Data Analytics & Visualization Bootcamp graduate from California.
 <BR>
 
 ### :hammer_and_wrench: Languages and Tools :
+  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -43,4 +44,10 @@ I am a new Data Analytics & Visualization Bootcamp graduate from California.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40" /> &nbsp;
  </div>
+  
+
+---
+
+### :fire: My Stats :
+
 
