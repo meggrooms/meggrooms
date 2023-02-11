@@ -49,5 +49,6 @@ I am a new Data Analytics & Visualization Bootcamp graduate from California.
 ---
 
 ### :fire: My Stats :
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=meggrooms">
 
 
