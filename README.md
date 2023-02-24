@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a new Data Analytics & Visualization Bootcamp graduate from California.
+I am a Data Analytics & Visualization Bootcamp graduate from Southern California.
 <BR>
 
 - :game_die: I own my own business teaching people how to learn with board games
