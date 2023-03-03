@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/meg-grooms/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://instagram.com/gameschooling_meg"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></a> 
+<BR>
+<a href="https://gameschoolacademy.com"> <img src="https://img.shields.io/badge/Gameschool-Academy-green" height="25">
+  </a>
 </div>
 <br>
   
