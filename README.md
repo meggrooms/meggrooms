@@ -7,7 +7,7 @@
   
 
 
-<a href="https://drive.google.com/file/d/1JHMpEwpnwOnY2ijOyxqwxTFQZCNj6ds6/view?usp=sharing"> <img src="https://img.shields.io/badge/My_Resume-orange?&logoColor=white&style=for-the-badge" height="30">
+<a href="https://drive.google.com/file/d/1JHMpEwpnwOnY2ijOyxqwxTFQZCNj6ds6/view?usp=sharing"> <img src="https://img.shields.io/badge/My_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
 <BR>
 <a href="https://www.linkedin.com/in/meg-grooms/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
