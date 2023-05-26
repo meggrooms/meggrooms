@@ -7,7 +7,7 @@
   
 
 
-<a href="https://drive.google.com/file/d/1wlRZOgG-iXdaKmpdeoyxnIrrIxXyFuzw/view?usp=sharing"> 
+<a href="https://tinyurl.com/3p6mys48"> 
   <img src="https://img.shields.io/badge/My_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
 <BR>
 <a href="https://www.linkedin.com/in/meg-grooms/">
