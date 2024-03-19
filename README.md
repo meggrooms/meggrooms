@@ -6,13 +6,18 @@
 <div id="Badges" align="center">
 
 
-<a href="https://github.com/meggrooms?tab=repositories"> 
-  <img src="https://img.shields.io/badge/My_Repos-orange?&logoColor=white&style=for-the-badge" height="50"></a>
-
+<a href="https://drive.google.com/file/d/1klQAVcIsSl3AOSVLVsKPDJWBvi9lvtvu/view">
+  <img src="https://shields.io/badge/Admin_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
 
 <a href="https://tinyurl.com/3p6mys48"> 
   <img src="https://img.shields.io/badge/Data_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
+  
 <BR>
+
+<a href="https://github.com/meggrooms?tab=repositories"> 
+  <img src="https://img.shields.io/badge/My_Repos-blue?&logoColor=white&style=for-the-badge" height="45"></a>
+
+<br>
 <a href="https://www.linkedin.com/in/meg-grooms/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://instagram.com/gameschooling_meg"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></a> 
