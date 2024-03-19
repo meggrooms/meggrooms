@@ -36,7 +36,7 @@ I am a Data Analytics & Visualization Bootcamp graduate from Southern California
 
 - :game_die: I own a business teaching people how to learn with board games
 
-- :snake: Currently exploring the wonderful world of Python and Full Stack Web Development
+- :snake: Continually exploring the wonderful world of Python and Full Stack Web Development
 
 - :surfing_woman: In my free time I like to adventure around town with my dog & kids.
 
