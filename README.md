@@ -6,8 +6,8 @@
 <div id="Badges" align="center">
 
 
-<a href="https://drive.google.com/file/d/1klQAVcIsSl3AOSVLVsKPDJWBvi9lvtvu/view">
-  <img src="https://shields.io/badge/Admin_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
+<a href="https://drive.google.com/file/d/18mNnbckhyAq6mDzZSEdOJqKJ0ZUc4jal/view?usp=sharing">
+  <img src="https://shields.io/badge/Web Design_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
 
 <a href="https://tinyurl.com/3p6mys48"> 
   <img src="https://img.shields.io/badge/Data_Resume-orange?&logoColor=white&style=for-the-badge" height="50">
