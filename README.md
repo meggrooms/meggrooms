@@ -39,7 +39,7 @@ I am a Data Analytics & Visualization Bootcamp graduate from Southern California
 
 - :snake: Continually exploring the wonderful world of Python and Full Stack Web Development
 
-- :surfing_woman: In my free time I like to adventure around town with my dog & kids.
+- :surfing_woman: In my free time I like to adventure around SoCal with my dog & kids.
 
 <a href = "mailto:meggrooms@gmail.com?subject = Feedback&body = GitHub"><img src="https://img.shields.io/badge/Email_Me-red?logo=instagram&logoColor=white&style=for-the-badge">
 </a>
