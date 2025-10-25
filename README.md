@@ -30,14 +30,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Analytics & Visualization Bootcamp graduate from Southern California.
+I am a Data Analytics & Visualization graduate from the University of California San Diego.
 <BR>
 
 - :game_die: I own a business teaching people how to learn with board games
   <br>
 - 💻  Web designer since 1999
 
-- :snake: Continually exploring the wonderful world of Python and Full Stack Web Development
+- :snake: Continually exploring the wonderful world of programming and Full Stack Web Development
 
 - :surfing_woman: In my free time I like to adventure around SoCal with my dog & kids.
 
